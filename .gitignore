@@ -1,0 +1,8 @@
+/target/
+./idea/
+*.imi
+.settings/
+.metadata/
+.classpath
+.project
+Severs/
